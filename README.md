@@ -12,6 +12,6 @@ Siste del av dagen gikk til plassering i det teamet jeg skal jobbe i. Jeg skal j
 Dag to av introprogrammet. Her fikk vi en guided tur rundt på SPK, hilse og få en oversikt over de forskjellige produktområdene innad.
 - Timer: kl 08.00 - 15.00 (7t)
 
-### Man. 1.08 
+## Man. 1.08 
 Første dag i jobb hos Statens Pensjonskasse (SPK). Her fikk jeg møte alle de nyutdannede som begynte samtidig som meg, en overordnet intro til SPK og utstyr. Vi var første "kullet" som fikk velge fritt mellom Windows, Linux og MacOS.
 - Timer: kl 08.00 - 15.00 (7t)
