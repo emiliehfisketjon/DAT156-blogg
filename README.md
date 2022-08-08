@@ -1,11 +1,18 @@
 # DAT156-blogg
 Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den inneholder en kort beskrivelse av dagen og hvor mange timer jeg har jobbet totalt etter "dagen i dag". 
 
-## Antall timer (totalt): 30
+## Antall timer (totalt): 38
+
+## Uke 2 
+
+### Man. 8.08 
+- Timer: 
 
 ## Uke 1
 
 ### Fre. 5.08
+Sammen med min fadder Mohammed, så jobbet vi med med en arbeidsoppgave. Teamet bruker Kanban tavle til å legge ut oppgaver som trengs å gjøre, så kan team medlemmer selv velge hvilke oppgaver man ønsker å starte på. Det var gøy å få et dypere innblikk i bach koden, og se et eksempel på oppgaver man kan få. 
+- Timer: kl 08.00 - 16.00 (8t)
 
 ### Tor. 4.08
 Startet dagen med å gå igjennom noen powerpointer som gir en kjapp innføring i pensjon (overordnet). Det er mye å sette seg inn i, men det er veldig interessant. Brukte store deler av dagen til å få innføring i de forskjellige batchene som blir brukt i flyten i Team Puck. 
