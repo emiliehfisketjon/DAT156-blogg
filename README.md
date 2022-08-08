@@ -6,7 +6,7 @@ Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den i
 ## Uke 2 
 
 ### Man. 8.08 
-- Timer: 
+- Timer: kl 08.15 - 
 
 ## Uke 1
 
