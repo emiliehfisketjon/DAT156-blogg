@@ -1,12 +1,21 @@
 # DAT156-blogg
 Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den inneholder en kort beskrivelse av dagen og hvor mange timer jeg har jobbet totalt etter "dagen i dag". 
 
-## Antall timer (totalt): 38
+## Antall timer (totalt): 55t45min
 
 ## Uke 2 
 
+## Ons. 10.08 
+- Timer: 
+
+### Tir. 9.08 
+Idag fikk jeg møte på to til i teamet (en aktuar og en utvikler). Jeg fikk delta på både min første Stand-up (alle i teamet deler hva deres arbeidsoppgaver er, hva planen er videre og om det er noen utfordringer) og Grooming sammen med et annet team som vi jobber tett med. Grooming er et felles møte hvor det tas opp om det er endringer et team gjør som kan kunne påvirke det andre. Om så, skal dette på forhånd være avklart slik at det ikke skal oppstå overraskelser. 
+- Timer: kl 08.30 - 17.30 (9t)
+
 ### Man. 8.08 
-- Timer: kl 08.15 - 
+Vi fikk innføring i sikkerhets og beredskaps prosedyrer og tiltak på huset. Jeg hadde også et Teams møte med den ene utvikleren på mitt team, og fikk hilse på henne da hun var tilbake etter ferie. 
+Sammen med fadder har vi tatt for oss en oppgave om å rydde vekk gammel flyt/kode i batcher, ettersom dette ikke blir brukt lengre. 
+- Timer: kl 08.15 - 17.00 (8t45min)
 
 ## Uke 1
 
