@@ -1,7 +1,7 @@
 # DAT156-blogg
 Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den inneholder en kort beskrivelse av dagen og hvor mange timer jeg har jobbet totalt etter "dagen i dag". 
 
-## Antall timer (totalt): 55t45min
+## Antall timer (totalt): 64t45min
 
 ## Uke 3 
 
