@@ -3,10 +3,24 @@ Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den i
 
 ## Antall timer (totalt): 55t45min
 
+## Uke 3 
+
+### Man. 15.08 
+
 ## Uke 2 
 
-### Ons. 10.08 
+### Fre. 12.08 
+Første lønning! 
+Daglig standup med team, workshop om hvordan vi skal slutte å bruke prod data, og sosialsammenkomst med leder og de andre nyansatte. 
 - Timer: 
+
+### Tor. 11.08 
+Daglig standup innad teamet hvor vi gir en oppdatering på hvilke arbeidsoppgaver man driver med og hvordan det går. Jeg var også med to på teamet som hadde et møte ang hvordan teamet skulle gå bort i fra å bruke prod data til testing (forberedelse til workshop som skal holdes fredag), og mulige tiltak som faktisk kan innføres for å gjøre noe med dette. 
+- Timer: kl 07.50 - 16.45 -- IKKE LAGT TIL FRA HER 
+
+### Ons. 10.08 
+Grooming med teamet, hvor vi fikk mer informasjon om hvordan et tiltak/regel (som er innført) påvirker dataen vi jobber med. Dette fikk vi se i en tabell, og aktuar på teamet ga en grunndig gjennomgang. Etter møte var det videre til en innnføring av arkitekter på huset, hvor de både gikk mer inn på pensjon og hvordan PUMA og ADA fungerer. Vi fikk se de forskjellige applikasjonene som blir brukt av interne saksbehandlere etc på huset. 
+- Timer: kl 08.00 - 17.00 (9t) 
 
 ### Tir. 9.08 
 Idag fikk jeg møte på to til i teamet (en aktuar og en utvikler). Jeg fikk delta på både min første Stand-up (alle i teamet deler hva deres arbeidsoppgaver er, hva planen er videre og om det er noen utfordringer) og Grooming sammen med et annet team som vi jobber tett med. Grooming er et felles møte hvor det tas opp om det er endringer et team gjør som kan kunne påvirke det andre. Om så, skal dette på forhånd være avklart slik at det ikke skal oppstå overraskelser. 
