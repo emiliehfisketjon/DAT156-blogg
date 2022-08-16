@@ -5,7 +5,13 @@ Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den i
 
 ## Uke 3 
 
+### Tir. 16.08
+
+- Timer: kl 
+
 ### Man. 15.08 
+Fadderen min (Mohammed) har dratt på ferie, så annen utvikler på teamet (Kieu) tar over som midlertidig fadder. Vi brukte store deler av dagen til å gjennomgå pensjon, Panda og de forskjellige premiemodellene. Vi kom frem til at det mest overkommelige er å starte med å få et overordnet overblikk, og løpende gå mer inn på detaljer. Dette tror jeg kan passe bra, samt at jeg leser og skriver notater selv. 
+- Timer: kl 
 
 ## Uke 2 
 
