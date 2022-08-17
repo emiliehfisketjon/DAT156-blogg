@@ -5,20 +5,29 @@ Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den i
 
 ## Uke 3 
 
-### Tir. 16.08
+### Fre. 19.08
+- Timer: kl
 
-- Timer: kl 
+### Tor. 18.08 
+- Timer: kl
+
+### Ons. 17.08 
+- Timer: kl
+
+### Tir. 16.08
+Standup med team og "Samarbeid på tvers" med annet team som heter Mira (som vi jobber tett opp mot). Videre hadde premieområdet leder Anh en gjennomgang om arbeidsmetodiikk og jira flyt ++, Kieu tok en gjennomgang av pensjonering og jeg commita og pusha en endring. 
+- Timer: kl 08.15 - 17.20 
 
 ### Man. 15.08 
 Fadderen min (Mohammed) har dratt på ferie, så annen utvikler på teamet (Kieu) tar over som midlertidig fadder. Vi brukte store deler av dagen til å gjennomgå pensjon, Panda og de forskjellige premiemodellene. Vi kom frem til at det mest overkommelige er å starte med å få et overordnet overblikk, og løpende gå mer inn på detaljer. Dette tror jeg kan passe bra, samt at jeg leser og skriver notater selv. 
-- Timer: kl 
+- Timer: kl 07.50 - 16.45 
 
 ## Uke 2 
 
 ### Fre. 12.08 
 Første lønning! 
 Daglig standup med team, workshop om hvordan vi skal slutte å bruke prod data, og sosialsammenkomst med leder og de andre nyansatte. 
-- Timer: 
+- Timer: 07.50 - 16.15 (8t5min)
 
 ### Tor. 11.08 
 Daglig standup innad teamet hvor vi gir en oppdatering på hvilke arbeidsoppgaver man driver med og hvordan det går. Jeg var også med to på teamet som hadde et møte ang hvordan teamet skulle gå bort i fra å bruke prod data til testing (forberedelse til workshop som skal holdes fredag), og mulige tiltak som faktisk kan innføres for å gjøre noe med dette. 
