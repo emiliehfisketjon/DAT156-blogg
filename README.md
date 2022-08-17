@@ -16,11 +16,11 @@ Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den i
 
 ### Tir. 16.08
 Standup med team og "Samarbeid på tvers" med annet team som heter Mira (som vi jobber tett opp mot). Videre hadde premieområdet leder Anh en gjennomgang om arbeidsmetodiikk og jira flyt ++, Kieu tok en gjennomgang av pensjonering og jeg commita og pusha en endring. 
-- Timer: kl 08.15 - 17.20 
+- Timer: kl 08.15 - 17.15 (9t)  
 
 ### Man. 15.08 
 Fadderen min (Mohammed) har dratt på ferie, så annen utvikler på teamet (Kieu) tar over som midlertidig fadder. Vi brukte store deler av dagen til å gjennomgå pensjon, Panda og de forskjellige premiemodellene. Vi kom frem til at det mest overkommelige er å starte med å få et overordnet overblikk, og løpende gå mer inn på detaljer. Dette tror jeg kan passe bra, samt at jeg leser og skriver notater selv. 
-- Timer: kl 07.50 - 16.45 
+- Timer: kl 07.50 - 16.50 (9t)
 
 ## Uke 2 
 
@@ -31,7 +31,7 @@ Daglig standup med team, workshop om hvordan vi skal slutte å bruke prod data, 
 
 ### Tor. 11.08 
 Daglig standup innad teamet hvor vi gir en oppdatering på hvilke arbeidsoppgaver man driver med og hvordan det går. Jeg var også med to på teamet som hadde et møte ang hvordan teamet skulle gå bort i fra å bruke prod data til testing (forberedelse til workshop som skal holdes fredag), og mulige tiltak som faktisk kan innføres for å gjøre noe med dette. 
-- Timer: kl 07.50 - 16.45 -- IKKE LAGT TIL FRA HER 
+- Timer: kl 07.50 - 16.50 (9t) -- IKKE LAGT TIL FRA HER 
 
 ### Ons. 10.08 
 Grooming med teamet, hvor vi fikk mer informasjon om hvordan et tiltak/regel (som er innført) påvirker dataen vi jobber med. Dette fikk vi se i en tabell, og aktuar på teamet ga en grunndig gjennomgang. Etter møte var det videre til en innnføring av arkitekter på huset, hvor de både gikk mer inn på pensjon og hvordan PUMA og ADA fungerer. Vi fikk se de forskjellige applikasjonene som blir brukt av interne saksbehandlere etc på huset. 
