@@ -1,18 +1,22 @@
 # DAT156-blogg
 Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den inneholder en kort beskrivelse av dagen og hvor mange timer jeg har jobbet totalt etter "dagen i dag". 
 
-## Antall timer (totalt): 64t45min
+## Antall timer (totalt): 124t10min
 
 ## Uke 3 
+### Antall timer: 42t20min
 
 ### Fre. 19.08
-- Timer: kl
+Det er alltid veldig tomt på kontoret på fredager, som kommer av at de fleste har hjemmekontor. Dagen gikk til å reflektere/repetere over regresjonstest prosessen, lese om commands i terminal og starte å se på forholdet mellom modus, kommando, orkestrering og oversetter i koden. Dette er et oppsett som er nokså særegent, og vil derfor være lurt å se nærmere på (besluttet i samråd med min nåværende fadder). 
+- Timer: kl 08.00 - 16.00 (8t) 
 
 ### Tor. 18.08 
-- Timer: kl
+Opplæring i hvordan vi regresjonstester, og hele prosessen her. Dette var veldig interessant og ga et godt innblikk i hva en av arbeidsoppgavene i team puck kommer til å være. Vi avsluttet også den ene oppgaven, og fikk derfor releaset versjon 1.0.0 av panda fakturering differanser (pa-fak-ba-03). 
+- Timer: kl 08.10 - 15.30 (7t20min)
 
 ### Ons. 17.08 
-- Timer: kl
+Store deler av dagen gikk til introprogrammet, hvor vi fikk innføring i både ITO's overordnede prosesser og SSB Standardsystemer og støtteprosesser. Avsluttet dagen med første IT Områdemøte. Dette arrangerer en gang i måneden, og her blir alle som er fast ansatt i ITO invitert. Opplegg variere, og her var fokus å ta imot oss som startet i august, bli kjent og spise kake. 
+- Timer: kl 08.10 - 17.10 (9t) 
 
 ### Tir. 16.08
 Standup med team og "Samarbeid på tvers" med annet team som heter Mira (som vi jobber tett opp mot). Videre hadde premieområdet leder Anh en gjennomgang om arbeidsmetodiikk og jira flyt ++, Kieu tok en gjennomgang av pensjonering og jeg commita og pusha en endring. 
@@ -23,6 +27,7 @@ Fadderen min (Mohammed) har dratt på ferie, så annen utvikler på teamet (Kieu
 - Timer: kl 07.50 - 16.50 (9t)
 
 ## Uke 2 
+### Antall timer: 43t50min
 
 ### Fre. 12.08 
 Første lønning! 
@@ -31,7 +36,7 @@ Daglig standup med team, workshop om hvordan vi skal slutte å bruke prod data, 
 
 ### Tor. 11.08 
 Daglig standup innad teamet hvor vi gir en oppdatering på hvilke arbeidsoppgaver man driver med og hvordan det går. Jeg var også med to på teamet som hadde et møte ang hvordan teamet skulle gå bort i fra å bruke prod data til testing (forberedelse til workshop som skal holdes fredag), og mulige tiltak som faktisk kan innføres for å gjøre noe med dette. 
-- Timer: kl 07.50 - 16.50 (9t) -- IKKE LAGT TIL FRA HER 
+- Timer: kl 07.50 - 16.50 (9t) 
 
 ### Ons. 10.08 
 Grooming med teamet, hvor vi fikk mer informasjon om hvordan et tiltak/regel (som er innført) påvirker dataen vi jobber med. Dette fikk vi se i en tabell, og aktuar på teamet ga en grunndig gjennomgang. Etter møte var det videre til en innnføring av arkitekter på huset, hvor de både gikk mer inn på pensjon og hvordan PUMA og ADA fungerer. Vi fikk se de forskjellige applikasjonene som blir brukt av interne saksbehandlere etc på huset. 
@@ -47,6 +52,7 @@ Sammen med fadder har vi tatt for oss en oppgave om å rydde vekk gammel flyt/ko
 - Timer: kl 08.15 - 17.00 (8t45min)
 
 ## Uke 1
+### Antall timer: 38t
 
 ### Fre. 5.08
 Sammen med min fadder Mohammed, så jobbet vi med med en arbeidsoppgave. Teamet bruker Kanban tavle til å legge ut oppgaver som trengs å gjøre, så kan team medlemmer selv velge hvilke oppgaver man ønsker å starte på. Det var gøy å få et dypere innblikk i bach koden, og se et eksempel på oppgaver man kan få. 
