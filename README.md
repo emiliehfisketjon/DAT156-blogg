@@ -48,7 +48,7 @@ Standup med team og "Samarbeid på tvers" med annet team som heter Mira (som vi 
 
 ### Man. 15.08 
 Fadderen min (Mohammed) har dratt på ferie, så annen utvikler på teamet (Kieu) tar over som midlertidig fadder. Vi brukte store deler av dagen til å gjennomgå pensjon, Panda og de forskjellige premiemodellene. Vi kom frem til at det mest overkommelige er å starte med å få et overordnet overblikk, og løpende gå mer inn på detaljer. Dette tror jeg kan passe bra, samt at jeg leser og skriver notater selv. 
-- Timer: kl 07.50 - 16.50 (9t)
+#### Timer: kl 07.50 - 16.50 (9t)
 
 ## Uke 2 (08.08 - 12.08)
 ### Antall timer: 43t50min
