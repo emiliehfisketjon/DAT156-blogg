@@ -10,9 +10,11 @@ Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den i
 #### Timer: kl 
 
 ### Tor. 25.08
+Sammen Samling for hele SPK med workshops, fellesmiddag, overnatting på hotell med Gardemoen og annet opplegg. 
 #### Timer: kl 
 
 ### Ons. 24.08
+Sammen Samling for hele SPK med workshops, fellesmiddag, overnatting på hotell med Gardemoen og annet opplegg. 
 #### Timer: kl 
 
 ### Tir. 23.08
