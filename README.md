@@ -27,6 +27,9 @@ Store deler av dagen gikk til følgende møter:
 - Intro presentasjon for IT-drift.
 - Workshop med team med tema Teststrategi. 
 
+Har også sett nærmere på modus reserveoppbygging i pa-fak-ba-03 og dens sammenheng med kommando og orkestrering.
+Avsluttet dagen med å skrive en intro tekst som skal bli publisert i en felles slack kanal for alle i SPK ITO. 
+
 #### Timer: kl 07.50 - 
 
 ## Uke 3 (15.08 - 19.08)
