@@ -29,11 +29,13 @@ Jeg brukte store deler av dagen på å ta kurs innenfor Linux og Maven. Den stas
 #### Timer: kl 08.15 - 16.50 (8t35min)
 
 ### Tor. 25.08
-Sammen Samling for hele SPK med workshops, fellesmiddag, overnatting på hotell med Gardemoen og annet opplegg. 
+Sammen Samling for hele SPK med workshops, fellesmiddag, overnatting på hotell ved Gardemoen og annet.
+Se link: https://www.spk.no/sammen2022
 #### Timer: TJENESTE (7t)
 
 ### Ons. 24.08
-Sammen Samling for hele SPK med workshops, fellesmiddag, overnatting på hotell med Gardemoen og annet opplegg. 
+Sammen Samling for hele SPK med workshops, fellesmiddag, overnatting på hotell ved Gardemoen og annet. 
+Se link: https://www.spk.no/sammen2022
 #### Timer: TJENESTE (7t)
 
 ### Tir. 23.08
