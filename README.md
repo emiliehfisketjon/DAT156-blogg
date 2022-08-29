@@ -19,6 +19,7 @@ Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den i
 ### Antall timer: 
 
 ### Man. 29.08
+Planning for den kommende uken med teamet, funnet Java streams kurs som jeg skal ta (dette er høyst relevant for videre arbeid) og felles gjennomgang med Kieu for to rutiner (Avrunding og Sperring for FFF). 
 ### Antall timer: 
 
 ## Uke 4 (22.08 - 26.08) 
