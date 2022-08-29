@@ -1,24 +1,44 @@
 # DAT156-blogg
 Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den inneholder en kort beskrivelse av dagen og hvor mange timer jeg har jobbet totalt etter "dagen i dag". 
 
-## Antall timer (totalt): 123t30min
+## Antall timer (totalt): 164t55min
 
-## Uke 4 (22.08 - 26.08) 
+## Uke 5 (29.08 - 02.09)
 ### Antall timer: 
 
+### Fre. 02.09 
+### Antall timer: 
+
+### Tor. 01.09
+### Antall timer: 
+
+### Ons. 31.08 
+### Antall timer: 
+
+### Tir. 30.08 
+### Antall timer: 
+
+### Man. 29.08
+### Antall timer: 
+
+## Uke 4 (22.08 - 26.08) 
+### Antall timer: 41t25min  
+
 ### Fre. 26.08
-#### Timer: kl 
+Jeg brukte store deler av dagen på å ta kurs innenfor Linux og Maven. Den stasjonære pc'en jeg skal begynne å bruke, benytter seg av Linux OS. 
+#### Timer: kl 08.15 - 16.50 (8t35min)
 
 ### Tor. 25.08
 Sammen Samling for hele SPK med workshops, fellesmiddag, overnatting på hotell med Gardemoen og annet opplegg. 
-#### Timer: kl 
+#### Timer: TJENESTE (7t)
 
 ### Ons. 24.08
 Sammen Samling for hele SPK med workshops, fellesmiddag, overnatting på hotell med Gardemoen og annet opplegg. 
-#### Timer: kl 
+#### Timer: TJENESTE (7t)
 
 ### Tir. 23.08
-#### Timer: kl 
+Daglig standup med team, samarbeid på tvers med team Mira og jobbe videre med å lese meg opp på domene. 
+#### Timer: kl 08.00 - 17.50 (9t50min) 
 
 ### Man. 22.08
 Store deler av dagen gikk til følgende møter: 
@@ -30,7 +50,7 @@ Store deler av dagen gikk til følgende møter:
 Har også sett nærmere på modus reserveoppbygging i pa-fak-ba-03 og dens sammenheng med kommando og orkestrering.
 Avsluttet dagen med å skrive en intro tekst som skal bli publisert i en felles slack kanal for alle i SPK ITO. 
 
-#### Timer: kl 07.50 - 
+#### Timer: kl 07.50 - 17.10 (9t) 
 
 ## Uke 3 (15.08 - 19.08)
 ### Antall timer: 41t40min
