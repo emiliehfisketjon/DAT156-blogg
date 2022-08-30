@@ -16,11 +16,13 @@ Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den i
 #### Timer: 
 
 ### Tir. 30.08 
-#### Timer: 
+Haar hatt en sesjon med Kieu, hvor vi har sett nærmere på de forskjellige batchene. Jeg har også fått en gjennomgang/opplæring i terminalbruk (ettersom dette blir hyppig brukt i mitt team). 
+Helt tilslutt har jeg funnet et kurs som tar for seg Java Streams, som jeg skal jobbe med de kommende dagene. 
+#### Timer: kl 07.50 - 
 
 ### Man. 29.08
 Planning for den kommende uken med teamet, funnet Java streams kurs som jeg skal ta (dette er høyst relevant for videre arbeid) og felles gjennomgang med Kieu for to rutiner (Avrunding og Sperring for FFF). 
-#### Timer: 07.50 - 
+#### Timer: kl 07.50 - 16.10 (8t)
 
 ## Uke 4 (22.08 - 26.08) 
 ### Antall timer: 41t25min  
