@@ -7,18 +7,20 @@ Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den i
 ### Antall timer: 
 
 ### Fre. 02.09 
-#### Timer:  
+#### Timer: kl 
 
 ### Tor. 01.09
-#### Timer: 
+#### Timer: kl 
 
 ### Ons. 31.08 
-#### Timer: 
+Førte Påfyll etter sommer. Påfyll arrangeres annenhver onsdag, hvor man har mulighet til å lære av kollegaers erfaringer gjennom 30 minutters innlegg fra ulike deler av organisasjonen. Målet er at alle vi i SPK skal få mer innsikt i hva andre i SPK jobber med, eller har kunnskap om. 
+Dagens tema var ***digital produktutvikling i SPK***. 
+#### Timer: kl 08.10 - 
 
 ### Tir. 30.08 
 Haar hatt en sesjon med Kieu, hvor vi har sett nærmere på de forskjellige batchene. Jeg har også fått en gjennomgang/opplæring i terminalbruk (ettersom dette blir hyppig brukt i mitt team). 
 Helt tilslutt har jeg funnet et kurs som tar for seg Java Streams, som jeg skal jobbe med de kommende dagene. 
-#### Timer: kl 07.50 - 
+#### Timer: kl 07.50 - 16.10 (8t)
 
 ### Man. 29.08
 Planning for den kommende uken med teamet, funnet Java streams kurs som jeg skal ta (dette er høyst relevant for videre arbeid) og felles gjennomgang med Kieu for to rutiner (Avrunding og Sperring for FFF). 
