@@ -10,7 +10,9 @@ Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den i
 #### Timer: kl 
 
 ### Tor. 01.09
-#### Timer: kl 
+Frontend kurs del I med Alejandro. Intro til HTML og CSS, samt demo oppgaver. Ser virkelig frem til å delta på kurs videre. 
+Det var også Utviklerforum idag!
+#### Timer: kl 07.40 - 
 
 ### Ons. 31.08 
 Førte Påfyll etter sommer. Påfyll arrangeres annenhver onsdag, hvor man har mulighet til å lære av kollegaers erfaringer gjennom 30 minutters innlegg fra ulike deler av organisasjonen. Målet er at alle vi i SPK skal få mer innsikt i hva andre i SPK jobber med, eller har kunnskap om. 
