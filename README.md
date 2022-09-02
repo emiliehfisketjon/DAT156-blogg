@@ -1,23 +1,24 @@
 # DAT156-blogg
 Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den inneholder en kort beskrivelse av dagen og hvor mange timer jeg har jobbet totalt etter "dagen i dag". 
 
-## Antall timer (totalt): 164t55min
+## Antall timer (totalt): 164t55min 
 
 ## Uke 5 (29.08 - 02.09)
-### Antall timer: 
+### Antall timer: 34t20min+ fredag = 42t30min) 
 
 ### Fre. 02.09 
-#### Timer: kl 
+#### Timer: kl 07.50 - 16.00 (8t10min)
 
 ### Tor. 01.09
 Frontend kurs del I med Alejandro. Intro til HTML og CSS, samt demo oppgaver. Ser virkelig frem til å delta på kurs videre. 
 Det var også Utviklerforum idag!
-#### Timer: kl 07.40 - 
+#### Timer: kl 07.40 - 16.00 (8t20min)
 
 ### Ons. 31.08 
 Førte Påfyll etter sommer. Påfyll arrangeres annenhver onsdag, hvor man har mulighet til å lære av kollegaers erfaringer gjennom 30 minutters innlegg fra ulike deler av organisasjonen. Målet er at alle vi i SPK skal få mer innsikt i hva andre i SPK jobber med, eller har kunnskap om. 
 Dagens tema var ***digital produktutvikling i SPK***. 
-#### Timer: kl 08.10 - 
+Videre jobbet jeg sammen med en annen utvikler på teamet med avregning for FFF. 
+#### Timer: kl 08.10 - 18.10 (10t)
 
 ### Tir. 30.08 
 Haar hatt en sesjon med Kieu, hvor vi har sett nærmere på de forskjellige batchene. Jeg har også fått en gjennomgang/opplæring i terminalbruk (ettersom dette blir hyppig brukt i mitt team). 
