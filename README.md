@@ -1,19 +1,19 @@
-# DAT156-blogg
+# DAT156-blogg (ferdig)
 Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den inneholder en kort beskrivelse av dagen og hvor mange timer jeg har jobbet totalt etter "dagen i dag". 
 
-## Antall timer (totalt): 207t25min
+## Antall timer (totalt): 224t55min 
 
 ## Uke 6 (05.09 - 06.09)
-### Antall timer: 
+### Antall timer: 17t30min
 
 ### Tir. 06.09 
-Kurs for nyansatte og sammarbeid på tvers. 
-#### Timer: kl 
+Kurs for nyansatte for SPKs produkter og sammarbeid på tvers. 
+#### Timer: kl 08.20 - 16.20 (8t)
 
 ### Man. 05.09 
 Siste uke av praksis! 
 Dagen gikk til frontend kurs og test av ny flyt sammen med team. 
-#### Timer: kl 08.10 - 
+#### Timer: kl 08.10 - 17.40 (9t30min)
 
 ## Uke 5 (29.08 - 02.09)
 ### Antall timer: 42t30min
