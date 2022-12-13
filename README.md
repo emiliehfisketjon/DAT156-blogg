@@ -1,7 +1,7 @@
 # DAT156-blogg (ferdig)
 Obligatorisk i faget DAT156 er å føre blogg for dagene man er i praksis. Den inneholder en kort beskrivelse av dagen og hvor mange timer jeg har jobbet totalt etter "dagen i dag". 
 
-## Antall timer (totalt): 224t55min 
+## Antall timer (totalt): 225t 
 
 ## Uke 6 (05.09 - 06.09)
 ### Antall timer: 17t30min
@@ -99,12 +99,12 @@ Fadderen min (Mohammed) har dratt på ferie, så annen utvikler på teamet (Kieu
 #### Timer: kl 07.50 - 16.50 (9t)
 
 ## Uke 2 (08.08 - 12.08)
-### Antall timer: 43t50min
+### Antall timer: 43t55min
 
 ### Fre. 12.08 
 Første lønning! 
 Daglig standup med team, workshop om hvordan vi skal slutte å bruke prod data, og sosialsammenkomst med leder og de andre nyansatte. 
-#### Timer: 07.50 - 16.15 (8t5min)
+#### Timer: 07.50 - 16.15 (8t10min)
 
 ### Tor. 11.08 
 Daglig standup innad teamet hvor vi gir en oppdatering på hvilke arbeidsoppgaver man driver med og hvordan det går. Jeg var også med to på teamet som hadde et møte ang hvordan teamet skulle gå bort i fra å bruke prod data til testing (forberedelse til workshop som skal holdes fredag), og mulige tiltak som faktisk kan innføres for å gjøre noe med dette. 
